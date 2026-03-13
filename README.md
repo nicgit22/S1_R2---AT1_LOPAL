@@ -4,10 +4,6 @@ Este repositório contém a resolução da **Atividade 01** da disciplina de **L
 
 ---
 
-## 🎯 Objetivos
-* Resolução de problemas com raciocínio lógico.
-* Construção de passo a passos para realizar tarefas.
-
 ## 🛠️ Ferramentas Utilizadas
 * **Flowgorithm** (Criação dos fluxogramas)
 * **Git / Github** (Controle de versão e portfólio)
